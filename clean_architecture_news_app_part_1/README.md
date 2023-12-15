@@ -5,7 +5,8 @@
 flutter_bloc, equatable,
 get_it,
 intl,
-floor,
+floor.
+
 2.
 
 
